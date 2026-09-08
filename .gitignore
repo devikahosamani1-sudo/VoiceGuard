@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+dataset/
+VoiceGuard_Training/
+VoiceGuard_DFBench/
+test.wav
+fake.wav
+*.mp4
